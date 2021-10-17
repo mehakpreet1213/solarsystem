@@ -1,0 +1,7 @@
+arcitecture followed by aframe=ecs
+E= Entity - Entity is a container object into which components can be attached
+C= Component- Component are data containers that can be attached to entities and provide them 
+some functionality.
+S= System - provide global scope, management, and services for classes of components.
+
+
